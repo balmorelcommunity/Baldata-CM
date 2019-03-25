@@ -12,7 +12,10 @@ SWEDEN
 *LITHUANIA                                   
 *POLAND                                      
 *BELGIUM                                     
-*FRANCE                                      
+*FRANCE  
+AUSTRIA
+SLOVENIA
+ITALY                                    
                                              
                                              
 /;                                           
